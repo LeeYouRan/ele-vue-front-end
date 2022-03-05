@@ -76,41 +76,41 @@ admin | 123456| 演示环境无法进行修改删除操作
 
 ## 🔧 模块展示
 
-![效果图1](./public/uploads/demo/1.png)
+![效果图1](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/1.png)
 
-![效果图2](./public/uploads/demo/2.png)
+![效果图2](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/2.png)
 
-![效果图3](./public/uploads/demo/3.png)
+![效果图3](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/3.png)
 
-![效果图4](./public/uploads/demo/4.png)
+![效果图4](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/4.png)
 
-![效果图5](./public/uploads/demo/5.png)
+![效果图5](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/5.png)
 
-![效果图5](./public/uploads/demo/6.png)
+![效果图5](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/6.png)
 
-![效果图7](./public/uploads/demo/7.png)
+![效果图7](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/7.png)
 
-![效果图8](./public/uploads/demo/8.png)
+![效果图8](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/8.png)
 
-![效果图9](./public/uploads/demo/9.png)
+![效果图9](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/9.png)
 
-![效果图10](./public/uploads/demo/10.png)
+![效果图10](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/10.png)
 
-![效果图11](./public/uploads/demo/11.png)
+![效果图11](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/11.png)
 
-![效果图12](./public/uploads/demo/12.png)
+![效果图12](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/12.png)
 
-![效果图13](./public/uploads/demo/13.png)
+![效果图13](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/13.png)
 
-![效果图14](./public/uploads/demo/14.png)
+![效果图14](.https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/14.png)
 
-![效果图15](./public/uploads/demo/15.png)
+![效果图15](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/15.png)
 
-![效果图16](./public/uploads/demo/16.png)
+![效果图16](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/16.png)
 
-![效果图17](./public/uploads/demo/17.png)
+![效果图17](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/17.png)
 
-![效果图18](./public/uploads/demo/18.png)
+![效果图18](https://github.com/LeeYouRan/lv8.x-back-end/blob/main/public/uploads/demo/18.png)
 
 ## 🍻 贡献者名单
 
